@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca06a335-daf1-4d64-9f14-fefd9c54cf26" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EMPLOYEES MANAGEMENT SYSTEM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resourse/add_employee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resourse/details.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resourse/fired.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resourse/front.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resourse/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resourse/print.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resourse/remove.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resourse/second.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resourse/view.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Splash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpdateEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ViewEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/login.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2cHpEz6vqTmPTpmfj3TXtxhRDC0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AddEmployee.executor": "Run",
+    "Application.Home.executor": "Run",
+    "Application.RemoveEmployee.executor": "Run",
+    "Application.Splash.executor": "Run",
+    "Application.UpdateEmployee.executor": "Run",
+    "Application.ViewEmployee.executor": "Run",
+    "Application.login.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "X:/Download/rs2xml.jar",
+    "onboarding.tips.debug.path": "C:/Users/Samsuzzoha Haque/IdeaProjects/EMPLOYEES MANAGEMENT SYSTEM/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca06a335-daf1-4d64-9f14-fefd9c54cf26" name="Changes" comment="" />
+      <created>1707778251816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707778251816</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
